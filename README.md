@@ -3,7 +3,7 @@
 
 ## Game Controller Assignment
 
-* [Development Documentation](.GameDevelopment/DevelopmentDocumentation.md)
+* [Development Documentation](./GameDevelopment/DevelopmentDocumentation.md)
 
 * [User Documentation](./GameDevelopment/UserDocumentation.md)
 
