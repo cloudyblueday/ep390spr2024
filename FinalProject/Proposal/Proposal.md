@@ -3,11 +3,13 @@
 *Typewriter Instrument*
 
 **Sylvia** will be an enhanced analog typewriter made to produce both word and sound. The goal is to be able to write on the typewriter while also triggering sounds on specific meaningful keys. I am not aiming to create a midi keyboard, or a machine that produces sounds corresponding with the ASCII keys that it has. Rather, it is meant to augment performances of writing and poetry with intentional keys being linked to sound. The instrument is also supposed to be simple to allow the typewriter to remain in working order. 
+
+Factoid: the instrument is named for beloved author Sylvia Plath. Her story makes me sad. I'm trying to write her a better one.
     
 ### Features Achieved No Matter What
-* Four capacitive sensors on the typewriter that are customizable and can be linked to sound
+* Four capacitive sensors on the typewriter that are customizable and MIDI capable (2/4 achieved)
 * Some way to read the typewritten product (either video or making sure that the poem can be read after the fact)
-* An accompanying max patch that turns the four sensors into a musical instrument
+* An accompanying max patch that turns the four sensors into a musical instrument (kinda sorta there)
 
 ### Better Outcome Deliverable
 * Sensitiity for each key, allowing more expression
