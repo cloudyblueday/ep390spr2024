@@ -12,7 +12,7 @@ Factoid: the instrument is named for beloved author Sylvia Plath. Her story make
 * An accompanying max patch that turns the four sensors into a musical instrument (kinda sorta there)
 
 ### Better Outcome Deliverable
-* Sensitiity for each key, allowing more expression
+* Sensitivity for each key, allowing more expression
 * Sensors on slightly more unordinary parts of the typewriter, like the return bar
 * A small separate controller that can recongifigre the sensors, akin to using a function key (fn + another key) so that one sensor can be used for multiple functions
 
